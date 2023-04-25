@@ -33,3 +33,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# husky pre-commit with prettier
+.husky
+
+# IntelliJ Idea
+.idea
